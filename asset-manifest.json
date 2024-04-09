@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bakerAllozi/FARAWAY-TODOLIST-react.js.git/static/css/main.54a1cf56.css",
+    "main.js": "/bakerAllozi/FARAWAY-TODOLIST-react.js.git/static/js/main.dbdd2224.js",
+    "index.html": "/bakerAllozi/FARAWAY-TODOLIST-react.js.git/index.html",
+    "main.54a1cf56.css.map": "/bakerAllozi/FARAWAY-TODOLIST-react.js.git/static/css/main.54a1cf56.css.map",
+    "main.dbdd2224.js.map": "/bakerAllozi/FARAWAY-TODOLIST-react.js.git/static/js/main.dbdd2224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a1cf56.css",
+    "static/js/main.dbdd2224.js"
+  ]
+}
